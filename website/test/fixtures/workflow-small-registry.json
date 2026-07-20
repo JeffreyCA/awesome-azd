@@ -1,0 +1,15 @@
+{
+  "extensions": [
+    {
+      "id": "microsoft.azd.demo",
+      "displayName": "Demo Extension",
+      "description": "This extension provides examples of the azd extension framework.",
+      "versions": [
+        {
+          "version": "0.7.0",
+          "capabilities": ["custom-commands"]
+        }
+      ]
+    }
+  ]
+}
