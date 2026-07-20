@@ -2,7 +2,7 @@
   {
     "id": "microsoft.azd.demo",
     "displayName": "Demo Extension (workflow acceptance test)",
-    "description": "This extension provides examples of the azd extension framework.",
+    "description": "Workflow acceptance test description.",
     "author": "Azure Dev",
     "authorUrl": "https://github.com/Azure",
     "source": "https://github.com/Azure/azure-dev/tree/main/cli/azd/extensions/microsoft.azd.demo",
