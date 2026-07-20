@@ -1,3 +1,3 @@
 {
-  "builtIn": "https://raw.githubusercontent.com/Azure/azure-dev/main/cli/azd/extensions/registry.json"
+  "builtIn": "https://raw.githubusercontent.com/JeffreyCA/awesome-azd/workflow-acceptance-20260720/website/test/fixtures/workflow-small-registry.json"
 }
