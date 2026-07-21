@@ -24,7 +24,7 @@
   {
     "id": "microsoft.azd.extensions",
     "displayName": "azd extensions Developer Kit",
-    "description": "This extension provides a set of tools for azd extension developers to test and debug their extensions.",
+    "description": "TEMPORARY FORK TEST: second drift should update the existing PR.",
     "author": "Azure Dev",
     "authorUrl": "https://github.com/Azure",
     "source": "https://github.com/Azure/azure-dev/tree/main/cli/azd/extensions/microsoft.azd.extensions",
