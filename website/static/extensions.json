@@ -40,7 +40,7 @@
   {
     "id": "azure.coding-agent",
     "displayName": "Coding agent configuration extension",
-    "description": "This extension configures GitHub Copilot Coding Agent access to Azure",
+    "description": "TEMPORARY FORK TEST: stale cleanup drift.",
     "author": "Azure Dev",
     "authorUrl": "https://github.com/Azure",
     "source": "https://github.com/Azure/azure-dev/tree/main/cli/azd/extensions/azure.coding-agent",
