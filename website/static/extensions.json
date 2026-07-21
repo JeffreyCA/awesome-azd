@@ -2,7 +2,7 @@
   {
     "id": "microsoft.azd.demo",
     "displayName": "Demo Extension",
-    "description": "TEMPORARY FORK TEST: this description should be synchronized.",
+    "description": "This extension provides examples of the azd extension framework.",
     "author": "Azure Dev",
     "authorUrl": "https://github.com/Azure",
     "source": "https://github.com/Azure/azure-dev/tree/main/cli/azd/extensions/microsoft.azd.demo",
@@ -24,7 +24,7 @@
   {
     "id": "microsoft.azd.extensions",
     "displayName": "azd extensions Developer Kit",
-    "description": "TEMPORARY FORK TEST: second drift should update the existing PR.",
+    "description": "This extension provides a set of tools for azd extension developers to test and debug their extensions.",
     "author": "Azure Dev",
     "authorUrl": "https://github.com/Azure",
     "source": "https://github.com/Azure/azure-dev/tree/main/cli/azd/extensions/microsoft.azd.extensions",
