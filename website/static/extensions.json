@@ -273,18 +273,5 @@
       "ai",
       "aifoundry"
     ]
-  },
-  {
-    "id": "microsoft.azd.fork-removal-test",
-    "displayName": "Temporary removal test",
-    "description": "Temporary built-in used for fork acceptance testing.",
-    "author": "Azure Dev",
-    "authorUrl": "https://github.com/Azure",
-    "source": "https://github.com/Azure/azure-dev/tree/main/cli/azd/extensions/microsoft.azd.fork-removal-test",
-    "registryUrl": "https://raw.githubusercontent.com/Azure/azure-dev/main/cli/azd/extensions/registry.json",
-    "capabilities": [],
-    "tags": [
-      "msft"
-    ]
   }
 ]
